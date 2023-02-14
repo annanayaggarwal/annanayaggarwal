@@ -1,4 +1,9 @@
-### Hi there 👋
+                              ### Hi there 👋, I'm Annanay Aggarwal
+                              A passionate developer from INDIA
+- 🔭 I’m currently working on Backend Web Development
+- 🌱 I’m currently learning Node Js
+- 👯 I’m looking to collaborate on open source
+- 📫 How to reach me anni.agg2003@gmail.com
 
 <!--
 **annanayaggarwal/annanayaggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
